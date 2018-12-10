@@ -1,0 +1,8 @@
+test/config.php
+examples/vendor
+examples/composer.lock
+.phpintel
+.idea
+.git
+vendor/
+composer.lock

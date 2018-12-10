@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9eb40d9864d380c6287a816897bcce4b",
+    "packages": [
+        {
+            "name": "thangman22/google-cloud-vision-php",
+            "version": "1.02",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thangman22/google-cloud-vision-php.git",
+                "reference": "a317ec191e53da4dca15dc96680b1dd4dfa6925f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thangman22/google-cloud-vision-php/zipball/a317ec191e53da4dca15dc96680b1dd4dfa6925f",
+                "reference": "a317ec191e53da4dca15dc96680b1dd4dfa6925f",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "*"
+            },
+            "type": "vcs",
+            "autoload": {
+                "psr-4": {
+                    "GoogleCloudVisionPHP\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Warat Wongmaneekit",
+                    "email": "canopybanj@gmail.com"
+                }
+            ],
+            "time": "2016-12-24T04:19:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

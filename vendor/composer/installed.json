@@ -1,0 +1,36 @@
+[
+    {
+        "name": "thangman22/google-cloud-vision-php",
+        "version": "1.02",
+        "version_normalized": "1.02.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thangman22/google-cloud-vision-php.git",
+            "reference": "a317ec191e53da4dca15dc96680b1dd4dfa6925f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thangman22/google-cloud-vision-php/zipball/a317ec191e53da4dca15dc96680b1dd4dfa6925f",
+            "reference": "a317ec191e53da4dca15dc96680b1dd4dfa6925f",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*"
+        },
+        "time": "2016-12-24T04:19:59+00:00",
+        "type": "vcs",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GoogleCloudVisionPHP\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Warat Wongmaneekit",
+                "email": "canopybanj@gmail.com"
+            }
+        ]
+    }
+]
